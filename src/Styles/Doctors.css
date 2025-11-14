@@ -59,12 +59,12 @@
     background-color: #DDE5F8;
     border-radius: 20px;
 }
-/* .dt-card-name {
+.dt-card-name {
     margin: 12px 0 0 0;
     font-size: 22px;
     font-weight: bold;
     letter-spacing: .7px;
-} */
+}
 .dt-card-title {
     margin: 6px 0 8px;
     color: #494949;
